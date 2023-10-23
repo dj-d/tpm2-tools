@@ -55,6 +55,7 @@ tss2_tools = \
     tools/fapi/tss2_decrypt.c \
     tools/fapi/tss2_encrypt.c \
     tools/fapi/tss2_list.c \
+    tools/fapi/tss2_mycustom.c \
     tools/fapi/tss2_changeauth.c \
     tools/fapi/tss2_delete.c \
     tools/fapi/tss2_import.c \
